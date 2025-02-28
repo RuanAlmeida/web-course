@@ -1,0 +1,11 @@
+@charset "utf-8" ;
+body{
+    background-color: black;
+    text-align: center;
+    font: size 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: aliceblue;
+    font-size: 100px;
+}
